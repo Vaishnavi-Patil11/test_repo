@@ -1,17 +1,2 @@
-dferg
-gttrhrth
-ergtrh
-srgtrhnh
-ggrtg
-asdg
-dfgd
-tgsssfg
-sfdgd
-1
-7
-9
--
-0
-9
-0
-9
+def delta():
+    print("This is delta function")
